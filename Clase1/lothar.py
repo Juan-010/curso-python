@@ -8,5 +8,6 @@ def lothar(n1):
             n1 += 1
         count += 1
     return count
+
 if __name__ == "__main__":
     print(lothar(int(input())))
